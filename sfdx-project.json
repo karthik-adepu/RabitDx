@@ -18,6 +18,7 @@
   "sourceApiVersion": "67.0",
   "name": "src",
   "packageAliases": {
-    "RabitTestPkg": "0HodL0000007OqPSAU"
+    "RabitTestPkg": "0HodL0000007OqPSAU",
+    "RabitTestPkg@0.1.0-1": "04tdL000000rQvdQAE"
   }
 }
